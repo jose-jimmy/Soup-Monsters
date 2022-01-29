@@ -25,6 +25,9 @@ Insta Predictor is a beginner-friendly web application, **that will help people 
 # TestCases : 
 
 shree_murlidharenterprise_1970 : Data not sufficient
+
 flaskandf : account does not exist 
+
 espn , coders_evoked , MLH : valid 
+
 travelhead94 : fake
