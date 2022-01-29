@@ -24,10 +24,10 @@ Insta Predictor is a beginner-friendly web application, **that will help people 
 
 # TestCases : 
 
-shree_murlidharenterprise_1970 : Data not sufficient
+* shree_murlidharenterprise_1970 : Data not sufficient
 
-flaskandf : account does not exist 
+* flaskandf : account does not exist 
 
-espn , coders_evoked , MLH : valid 
+* espn , coders_evoked , MLH : valid 
 
-travelhead94 : fake
+* travelhead94 : fake
