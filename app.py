@@ -25,6 +25,8 @@ def insta_prediction():
             profile = Profile.from_username(L.context, PROFILE)
         except:
             result = 'Account not found'
+            return render_template('result.html', account_prediction_text=result)
+            
             # return jsonify({'result':'Account not found'})
         
         followers = (profile.followers)
