@@ -22,3 +22,9 @@ Insta Predictor is a beginner-friendly web application, **that will help people 
 * So to avoid this we came up with this idea of insta predictor which can predict fake or real accounts of users 
 
 
+# TestCases : 
+
+shree_murlidharenterprise_1970 : Data not sufficient
+flaskandf : account does not exist 
+espn , coders_evoked , MLH : valid 
+travelhead94 : fake
