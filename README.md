@@ -1,7 +1,7 @@
 # Soup-Monsters
 
 # Insta Predictor
-An flask based web application that predicts valid/invalid instagram profiles  !
+A flask based web application that predicts valid/invalid instagram profiles  !
 
 # Why Insta Predictor?
 Insta Predictor is a beginner-friendly web application, **that will help people to bring their predictions into life !** By following our well-documented code, users can use this project and verify fake accounts of users !
